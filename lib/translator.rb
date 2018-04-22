@@ -3,7 +3,8 @@ require 'pry'
 require 'yaml'
 
 def load_library(emoticon)
-  # code goes here
+  
+  
 end
 
 def get_japanese_emoticon
